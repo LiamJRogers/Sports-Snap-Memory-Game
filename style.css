@@ -131,10 +131,15 @@ button {
 }
 @media(max-width: 768px)
 {
-    .card
-    {
+    .card {
         width:80px;
     }
+} 
+@media(max-height:700px)
+{
+   .card {
+    height:60px;
+   }
 }
 
  
