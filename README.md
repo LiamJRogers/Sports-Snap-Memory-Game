@@ -29,7 +29,6 @@
     </li>
     <li><a href="#how-to-win">How To Win</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -80,16 +79,6 @@ This is a simple snap memory game with a sports theme. To win you must match all
 See the [open issues](https://github.com/LiamJRogers/Sports-Snap-Memory-Game/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
